@@ -1,6 +1,7 @@
 This is a POS (Point of Sale) application with a Culinary theme.
-This application uses Vue JS and API. for the API can visit github:
-https://github.com/Alfahan/backend-kuliner.git
+
+
+This application uses Vue JS and API. for the API can visit github: https://github.com/Alfahan/backend-kuliner.git
 
 ![Screenshot from 2020-09-12 14-12-28](https://user-images.githubusercontent.com/49190810/92990005-a67a6400-f502-11ea-8d4c-e304b59d8a5d.png)
 
